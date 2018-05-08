@@ -1,0 +1,5 @@
+spidev_module.c
+pip-egg-info/spidev.egg-info/PKG-INFO
+pip-egg-info/spidev.egg-info/SOURCES.txt
+pip-egg-info/spidev.egg-info/dependency_links.txt
+pip-egg-info/spidev.egg-info/top_level.txt

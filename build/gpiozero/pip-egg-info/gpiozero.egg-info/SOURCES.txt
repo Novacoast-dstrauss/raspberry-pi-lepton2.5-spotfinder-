@@ -1,0 +1,13 @@
+MANIFEST.in
+README.rst
+setup.cfg
+gpiozero/__init__.py
+gpiozero/boards.py
+gpiozero/devices.py
+gpiozero/input_devices.py
+gpiozero/output_devices.py
+pip-egg-info/gpiozero.egg-info/PKG-INFO
+pip-egg-info/gpiozero.egg-info/SOURCES.txt
+pip-egg-info/gpiozero.egg-info/dependency_links.txt
+pip-egg-info/gpiozero.egg-info/requires.txt
+pip-egg-info/gpiozero.egg-info/top_level.txt

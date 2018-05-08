@@ -24,4 +24,3 @@ Lepton's VIN pin should be connected to RasPI's 3v3 pin.
 Lepton's SDA pin should be connected to RasPI's SDA pin.
 Lepton's SCL pin should be connected to RasPI's SCL pin.
 
-# raspberry-pi-lepton2.5-spotfinder-
